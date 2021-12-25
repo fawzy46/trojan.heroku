@@ -1,3 +1,3 @@
 
-一键部署Trojan到Heroku [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/fawzy46/trojan.heroku/edit/master/)
+一键部署Trojan到Heroku [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/fawzy46/trojan.heroku)
 未完工...
